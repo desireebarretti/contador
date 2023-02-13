@@ -8,3 +8,5 @@ FUNCIONALIDADES a funcionalidade do contador é mostrar ao usuário uma contagem
 TECNOLOGIAS HTML, CSS E JAVASCRIPT
 
 AUTORES Apenas eu mesma
+
+PÁGINA https://contador-sable-three.vercel.app
